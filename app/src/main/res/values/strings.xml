@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LectorTickets</string>
+    <string name="monto_total">Monto total</string>
+    <string name="monto_por_cuota">Monto por cuota</string>
+    <string name="_0">$0</string>
+    <string name="cuotas">Cuotas</string>
+    <string name="__0">0</string>
+</resources>

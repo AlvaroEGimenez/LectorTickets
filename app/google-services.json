@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781179751118",
+    "firebase_url": "https://visiontext-1c6ef.firebaseio.com",
+    "project_id": "visiontext-1c6ef",
+    "storage_bucket": "visiontext-1c6ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781179751118:android:6c111c5b763b8519a3de9f",
+        "android_client_info": {
+          "package_name": "com.example.lectortickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781179751118-34ii9l9ouj2d73sj57ql0qi5h61f0huq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lectortickets",
+            "certificate_hash": "2b787e93a819a5b22441a413cf4182e9322c20da"
+          }
+        },
+        {
+          "client_id": "781179751118-di5v85n0qra9mh47sle6ij5i680ln67v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqcZYC1mvpOCweUxo7i1Mx-Ge4wKzqg0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781179751118-di5v85n0qra9mh47sle6ij5i680ln67v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
